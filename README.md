@@ -32,7 +32,6 @@
 
 ### 🏅 Gamifikuotas Sportas
 - **Užduočių sistema** kaip kompiuteriniuose žaidimuose
-- **Patirties taškai** ir lygiai
 - **Virtualūs apdovanojimai**
 
 ### 🩺 Sveikatos Pagerėjimas
