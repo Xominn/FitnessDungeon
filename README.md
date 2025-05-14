@@ -1,7 +1,9 @@
-# FitnessDungeon
+<div style="text-align: center;">
+  <h1>FitnessDungeon</h1>
+</div>
 
-Fitness Dungeon projektą/programą:
--Ainaras Kudirka
--Gytis Kaluževičius
--Artūras Saulis
--Nojus Bataitis
+**Projektą sukūrė:**  
+Ainaras Kudirka  
+Gytis Kaluževičius  
+Artūras Saulis  
+Nojus Bataitis
