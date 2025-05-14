@@ -1,4 +1,7 @@
 # FitnessDungeon
 
-Testas bestas 123
-anglas
+Fitness Dungeon projektą/programą:
+-Ainaras Kudirka
+-Gytis Kaluževičius
+-Artūras Saulis
+-Nojus Bataitis
