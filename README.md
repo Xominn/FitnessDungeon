@@ -14,12 +14,20 @@
 
 # Apie programą
 
-Ši programa buvo sukurta siekiant palengvinti kasdienius darbo procesus. Pagrindinės programos funkcijos:
+**FitnessDungeon** yra interaktyvi aplikacija, kuri paverčia fizinę treniruotę į žaidimą. Žaidimą sudaro
 
-- Duomenų rinkimas ir apdorojimas
-- Automatinis ataskaitų generavimas
-- Vartotojo sąsajos pritaikymas įvairiems įrenginiams
-- Duomenų saugojimas ir apsauga
+### 🎯 Misijų Sistema
+- **Kasdienės misijos** (3 naujos per dieną)
+  - Pvz.: "Padaryk 30 atsispaudimų", "Nueik 10 000 žingsnių"
+- **Paprastos užduotys** 
+  - Pvz.: "Tokios pat kaip kasdieninės, bet jų yra labai daug"
+
+### 💰 Ekonomikos Sistema
+- Už kiekvieną įvykdytą misiją gaunate **FitnessCoins (FC)**
+- Galite išleisti FC:
+  - 🛍️ **Aprangai** (sportinė forma, aksesuarai)
+  - 🐕 **Augintiniams** (virtualūs augintiniai)
+  - 🎨 **Personalizacijai** (profilio dizainas)
 
 # Programos nuotraukos
 
