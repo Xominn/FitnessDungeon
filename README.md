@@ -14,7 +14,41 @@
 
 # Apie programą
 
-**FitnessDungeon** yra interaktyvi aplikacija, kuri paverčia fizinę treniruotę į žaidimą. Žaidimą sudaro
+# 🏆 FitnessDungeon - Nemokama Programa, Kuri Pakeis Tavo Gyvenimą!
+
+<div style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+  <h2>💪 Kodėl Verta Naudotis?</h2>
+  <p>Nebekankink saves nuobodžiomis treniruotėmis - paverčk fizinį aktyvumą į žaidimą!</p>
+</div>
+
+---
+
+## ✨ Pagrindiniai Privalumai
+
+### 🆓 Visiškai Nemokama
+- Nėra prenumeratų
+- Nėra paslėptų mokesčių
+- Nėra reklamų
+
+### 🏅 Gamifikuotas Sportas
+- **Užduočių sistema** kaip kompiuteriniuose žaidimuose
+- **Patirties taškai** ir lygiai
+- **Virtualūs apdovanojimai**
+
+### 🩺 Sveikatos Pagerėjimas
+- Sumažėjęs sėdimos veiklos laikas
+- Geresnis miegas
+- Padidėjęs energijos lygis
+
+---
+
+
+**FitnessDungeon** yra interaktyvi aplikacija, kuri paverčia fizinę treniruotę į žaidimą.Programa naudoja:
+
+### 🧠 Psichologijos Principus
+- **Momentinis atlygis** už kiekvieną pratimą (dopamino smūgis)
+- **Progreso matomumas** per lygius ir apdovanojimus
+
 
 ### 🎯 Misijų Sistema
 - **Kasdienės misijos** (3 naujos per dieną)
