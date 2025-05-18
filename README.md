@@ -81,19 +81,19 @@ Programa buvo testuojama šiais metodais:
 > Testų rezultatai parodė, kad programa veikia stabiliai ir atitinka visus keliamus reikalavimus.
 
 ## Testavimo lentelė
-
-| Testo nr. |      Veiksmas     |  Hipoteze  | Rezultatas |
+## Testavimo lentelė
+| Testo nr. |      Veiksmas     |  Hipotezė  | Rezultatas |
 |-----------|-------------------|------------|------------|
-| 1         |                   |            |            |
-| 2         |                   |            |            |
-| 3         |                   |            |            |
-| 4         |                   |            |            |
-| 5         |                   |            |            |
-| 6         |                   |            |            |
-| 7         |                   |            |            |
-| 8         |                   |            |            |
-| 9         |                   |            |            |
-| 10        |                   |            |            |
+| 1         | Paspaudžiame kasdieninių misijų mygtuką | Atsidaro kasdieninių misijų langas | Hipotezė pasitvirtino |
+| 2         | Paspaudžiame bendrų misijų mygtuką | Atsidaro bendrų misijų langas | Hipotezė pasitvirtino |
+| 3         | Paspaudžiame mygtuką nueiti į Urvo meniu | Atsidaro Urvo meniu langas | Hipotezė pasitvirtino |
+| 4         | Paspaudžiame mygtuką nueiti į veikėjo dizaino meniu | Atsidaro veikėjo dizaino meniu | Hipotezė pasitvirtino |
+| 5         | Paspaudžiame aprangos mygtuką esantį dizaino meniu | Atsidaro aprangos pasirinkimo langas | Hipotezė pasitvirtino |
+| 6         | Pakeičiame veikėjo aprangą | Pakeista apranga išlieka veikėjui | Hipotezė pasitvirtino |
+| 7         | Kasdieninių misijų paskyrimas | Naujos misijos išduodamos tik kas 24 valandas | Hipotezė pasitvirtino |
+| 8         | Trofėjaus demonstravimas | Gautas trofėjus yra demonstruojamas Urvo meniu dalyje | Hipotezė pasitvirtino |
+| 9         | Augintinių pasirinkimo mygtukas | Paspaudus mygtuką atsidaro augintinių pasirinkimo langas | Hipotezė pasitvirtino |
+| 10        | Monetų gavimas | Už įvykdytas misijas gautos monetos rodomos atitinkamoje vietoje | Hipotezė pasitvirtino |
 # Naudojimo gidas vartotojui
 
 ## Instaliavimas
