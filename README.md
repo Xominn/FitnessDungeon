@@ -10,7 +10,7 @@
 - Artūras Saulis
 - Gytis Kaluževičius
 
-*Darbas buvo atliktas laikantis numatyto grafiko ir įgyvendinant visus užsibrėžtus tikslus.*
+
 
 # FitnessDungeon: Žaidybinis požiūris į sportą
 
