@@ -89,10 +89,10 @@ FitnessDungeon – tai ne tik sportavimo programėlė, bet ir žaismingas būdas
 
 
 ###  Misijų Sistema
-- **Kasdienės misijos** (3 naujos per dieną)
+- **Kasdienės misijos** (3 per dieną)
   - Pvz.: "Padaryk 30 atsispaudimų", "Nueik 10 000 žingsnių"
 - **Paprastos užduotys** 
-  - Pvz.: "Tokios pat kaip kasdieninės, bet jų yra labai daug"
+  - Pvz.: "Panašios į kasdienines, tačiau jas gali pasirinkti pats pagal tai, ką labiau nori treniruoti."
 
 ###  Ekonomikos Sistema
 - Už kiekvieną įvykdytą misiją gaunate **FitnessCoins (FC)**
@@ -126,21 +126,33 @@ FitnessDungeon – tai ne tik sportavimo programėlė, bet ir žaismingas būdas
 | 8         | Trofėjaus demonstravimas | Gautas trofėjus yra demonstruojamas Urvo meniu dalyje | Hipotezė pasitvirtino |
 | 9         | Augintinių pasirinkimo mygtukas | Paspaudus mygtuką atsidaro augintinių pasirinkimo langas | Hipotezė pasitvirtino |
 | 10        | Monetų gavimas | Už įvykdytas misijas gautos monetos rodomos atitinkamoje vietoje | Hipotezė pasitvirtino |
-# Naudojimo gidas vartotojui
 
-## Instaliavimas
 
-To install the application:
-1. Download the latest version from our releases page
-2. Run the installer and follow the on-screen instructions
-3. Launch the application after installation
+##  Programos patobulinimai ateityje
 
-## Basic Usage
+FitnessDungeon komanda nuolat tobulina programėlę, kad suteiktų dar daugiau motyvacijos ir funkcionalumo. Štai keletas planuojamų patobulinimų:
 
-The main features can be accessed through the navigation menu:
-- **Dashboard** - Overview of key metrics
-- **Reports** - Generate and export various reports
-- **Settings** - Configure application according to your needs
-- **Help** - Access user documentation and support
+###  Socialinės funkcijos
+- **Draugų sistema** – galimybė pridėti draugus ir matyti jų pasiekimus
+- **Iššūkių kūrimas** – sukurkite asmeninius iššūkius ir pakvieskite draugus juose dalyvauti
+- **Pasiekimų lentelės** – varžykitės su kitais naudotojais ir užimkite aukštas vietas reitinguose
 
-For additional assistance, please contact our support team at `support@example.com`
+###  Išplėstinės misijos
+- **Sezoniniai renginiai** – specialios misijos, skirtos tam tikriems metų laikams ar šventėms
+- **Progresuojančios treniruotės** – misijos, kurios automatiškai tampa sudėtingesnės didėjant jūsų fiziniam pajėgumui
+- **Personalizuotos treniruočių programos** – algoritmai, pritaikantys misijas pagal jūsų tikslus ir galimybes
+
+###  Nauji atlygiai
+- **Retieji augintiniai** – unikalūs virtualūs augintiniai su specialiomis savybėmis
+- **Interaktyvūs trofėjai** – trofėjai su animacijomis ir interaktyviais elementais
+
+###  Išplėstinė analitika
+- **Išsami statistika** – detalus jūsų progreso ir veiklos sekimas
+- **Sveikatos rodiklių integracija** – galimybė prijungti išmaniuosius įrenginius ir sekti sveikatos rodiklius
+- **Progreso vizualizacija** – grafikai ir diagramos, vaizdžiai parodančios jūsų pasiekimus
+
+###  Bendruomenės įtraukimas
+- **Bendruomenės kuriamas turinys** – galimybė naudotojams kurti ir dalintis misijomis
+- **Grupiniai pasiekimai** – specialūs trofėjai, gaunami bendradarbiaujant su kitais naudotojais
+
+FitnessDungeon siekia ne tik motyvuoti sportuoti, bet ir sukurti aktyvią bendruomenę, kurioje naudotojai galėtų dalintis savo pasiekimais ir įkvėpti vienas kitą. Šie patobulinimai padės mums toliau kurti įtraukiančią ir motyvuojančią programėlę visiems aktyvaus gyvenimo būdo entuziastams.
