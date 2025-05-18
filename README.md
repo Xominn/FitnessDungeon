@@ -14,7 +14,7 @@
 
 # Apie programą
 
-# FitnessDungeon transformuoja kasdienį sportavimą į smagią veiklą, kurioje kiekvienas pratimas tampa žingsniu link jūsų asmeninio veikėjo tobulėjimo. Programos esmė – atlikdami fizinius pratimus uždirbate specialią valiutą, FitnessCoins (FC), kurią galite investuoti į savo virtualaus veikėjo pagerinimus.
+FitnessDungeon transformuoja kasdienį sportavimą į smagią veiklą, kurioje kiekvienas pratimas tampa žingsniu link jūsų asmeninio veikėjo tobulėjimo. Programos esmė – atlikdami fizinius pratimus uždirbate specialią valiutą, FitnessCoins (FC), kurią galite investuoti į savo virtualaus veikėjo pagerinimus.
 
 <div style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
   <h2> Kodėl Verta Naudotis?</h2>
