@@ -82,18 +82,18 @@ Programa buvo testuojama šiais metodais:
 
 ## Testavimo rezultatai
 
-| Testo nr. | Testo pavadinimas | Rezultatas | Pastabos |
-|-----------|-------------------|------------|----------|
-| 1         |                   |            |          |
-| 2         |                   |            |          |
-| 3         |                   |            |          |
-| 4         |                   |            |          |
-| 5         |                   |            |          |
-| 6         |                   |            |          |
-| 7         |                   |            |          |
-| 8         |                   |            |          |
-| 9         |                   |            |          |
-| 10        |                   |            |          |
+| Testo nr. |      Veiksmas     |  Hipoteze  | Rezultatas |
+|-----------|-------------------|------------|------------|
+| 1         |                   |            |            |
+| 2         |                   |            |            |
+| 3         |                   |            |            |
+| 4         |                   |            |            |
+| 5         |                   |            |            |
+| 6         |                   |            |            |
+| 7         |                   |            |            |
+| 8         |                   |            |            |
+| 9         |                   |            |            |
+| 10        |                   |            |            |
 # User Guide
 
 ## Installation
