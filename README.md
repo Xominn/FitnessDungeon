@@ -17,24 +17,24 @@
 # 🏆 FitnessDungeon - Nemokama Programa, Kuri Pakeis Tavo Gyvenimą!
 
 <div style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
-  <h2>💪 Kodėl Verta Naudotis?</h2>
+  <h2> Kodėl Verta Naudotis?</h2>
   <p>Nebekankink saves nuobodžiomis treniruotėmis - paverčk fizinį aktyvumą į žaidimą!</p>
 </div>
 
 ---
 
-## ✨ Pagrindiniai Privalumai
+##  Pagrindiniai Privalumai
 
-### 🆓 Visiškai Nemokama
+###  Visiškai nemokama
 - Nėra prenumeratų
 - Nėra paslėptų mokesčių
 - Nėra reklamų
 
-### 🏅 Gamifikuotas Sportas
+###  Sportavimas žaidžiant 
 - **Užduočių sistema** kaip kompiuteriniuose žaidimuose
 - **Virtualūs apdovanojimai**
 
-### 🩺 Sveikatos Pagerėjimas
+###  Sveikatos pagerėjimas
 - Sumažėjęs sėdimos veiklos laikas
 - Geresnis miegas
 - Padidėjęs energijos lygis
@@ -44,23 +44,23 @@
 
 **FitnessDungeon** yra interaktyvi aplikacija, kuri paverčia fizinę treniruotę į žaidimą.Programa naudoja:
 
-### 🧠 Psichologijos Principus
+###  Psichologijos Principus
 - **Momentinis atlygis** už kiekvieną pratimą (dopamino smūgis)
 - **Progreso matomumas** per lygius ir apdovanojimus
 
 
-### 🎯 Misijų Sistema
+###  Misijų Sistema
 - **Kasdienės misijos** (3 naujos per dieną)
   - Pvz.: "Padaryk 30 atsispaudimų", "Nueik 10 000 žingsnių"
 - **Paprastos užduotys** 
   - Pvz.: "Tokios pat kaip kasdieninės, bet jų yra labai daug"
 
-### 💰 Ekonomikos Sistema
+###  Ekonomikos Sistema
 - Už kiekvieną įvykdytą misiją gaunate **FitnessCoins (FC)**
 - Galite išleisti FC:
-  - 🛍️ **Aprangai** (sportinė forma, aksesuarai)
-  - 🐕 **Augintiniams** (virtualūs augintiniai)
-  - 🎨 **Personalizacijai** (profilio dizainas)
+  -  **Aprangai** (sportinė forma, aksesuarai)
+  -  **Augintiniams** (virtualūs augintiniai)
+  -  **Personalizacijai** (profilio dizainas)
 
 # Programos nuotraukos
 
