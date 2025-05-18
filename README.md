@@ -14,21 +14,21 @@
 
 # FitnessDungeon: Žaidybinis požiūris į sportą
 
-**FitnessDungeon** – tai unikali programėlė, kuri sporto rutinos monotoniją paverčia įtraukiančiu nuotykiu. Sukurta pixel art stiliumi, ji sujungia fizinį aktyvumą su žaidimo elementais, suteikdama motyvaciją tiems, kuriems tradicinis sportavimas atrodo nuobodus.
+**FitnessDungeon** – tai unikali programėlė, kuri sporto rutinos monotoniją paverčia įtraukiančiu nuotykiu. Sukurta pixel art stiliumi, ji sujungia fizinį aktyvumą su žaidimo elementais, suteikdama motyvaciją tiems, kuriems tradicinis sportas atrodo nuobodus.
 
 ##  Apie programą
 
-FitnessDungeon transformuoja kasdienį sportavimą į smagią veiklą, kurioje kiekvienas pratimas tampa žingsniu link jūsų asmeninio veikėjo tobulėjimo. Programos esmė – atlikdami fizinius pratimus uždirbate specialią valiutą, **FitnessCoins (FC)**, kurią galite investuoti į savo virtualaus veikėjo pagerinimus.
+FitnessDungeon transformuoja kasdienį sportą į smagią veiklą, kurioje kiekvienas pratimas tampa žingsniu link jūsų asmeninio tobulėjimo. Programos esmė – atlikdami fizinius pratimus, jūs uždirbate specialią valiutą, **FitnessCoins (FC)**, kurią galite investuoti į savo virtualaus veikėjo patobulinimus.
 
 ##  Pagrindinės funkcijos
 
 Programėlę sudaro trys pagrindiniai komponentai:
 
 ### 1. Misijų centras
-Čia rasite įvairius pratimus, pateiktus kaip užduotis. Nuo paprastų atsispaudimų iki sudėtingesnių ištvermės treniruočių – kiekviena atlikta misija atneša FC ir priartina prie įvairių žaidimo pasiekimų.
+Čia rasite įvairius pratimus, pateiktus kaip užduotis. Nuo paprastų atsispaudimų iki sudėtingesnių ištvermės treniruočių – kiekviena atlikta misija atneša FC ir priartina jus prie įvairių žaidimo pasiekimų.
 
 ### 2. Veikėjo dizaino studija
-Šioje dalyje galite išleisti uždirbtas FC tam, kad:
+Šioje dalyje galite išleisti uždirbtus FC tam, kad:
 - Pagerintumėte savo veikėjo išvaizdą su nauja apranga
 - Įsigytumėte šalmus, papuošalus, kelnes ir kitus aksesuarus
 
@@ -51,13 +51,13 @@ FitnessDungeon išsiskiria savo unikaliu požiūriu į motyvaciją:
 Programa puikiai tinka:
 - Sporto entuziastams, ieškantiems papildomos motyvacijos
 - Žaidimų mėgėjams, norintiems sujungti hobį su sveiku gyvenimo būdu
-- Visiems, kas nori paversti kasdienį sportavimą į įdomų ir įtraukiantį nuotykį
+- Visiems, kas nori paversti kasdienį sportą į įdomų ir įtraukiantį nuotykį
 
-FitnessDungeon – tai ne tik sportavimo programėlė, bet ir žaismingas būdas pradėti ir palaikyti sveikesnį, aktyvesnį gyvenimo būdą, kur kiekvienas pratimas tampa žingsniu link jūsų asmeninio veikėjo evoliucijos ir virtualių pasiekimų.
+FitnessDungeon – tai ne tik sporto programėlė, bet ir žaismingas būdas pradėti ir palaikyti sveikesnį, aktyvesnį gyvenimo būdą, kur kiekvienas pratimas tampa žingsniu link jūsų asmeninės evoliucijos ir virtualių pasiekimų.
 
 <div style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
   <h2> Kodėl Verta Naudotis?</h2>
-  <p>Nebekankink saves nuobodžiomis treniruotėmis - paversk fizinį aktyvumą į žaidimą!</p>
+  <p>Nebekankink savęs nuobodžiomis treniruotėmis - paversk fizinį aktyvumą į žaidimą!</p>
 </div>
 
 ---
@@ -81,7 +81,7 @@ FitnessDungeon – tai ne tik sportavimo programėlė, bet ir žaismingas būdas
 ---
 
 
-**FitnessDungeon** yra interaktyvi aplikacija, kuri paverčia fizinę treniruotę į žaidimą.Programa naudoja:
+**FitnessDungeon** yra interaktyvi aplikacija, kuri paverčia fizinę treniruotę į žaidimą. Programa naudoja:
 
 ###  Psichologijos Principus
 - **Momentinis atlygis** už kiekvieną pratimą (dopamino smūgis)
@@ -92,7 +92,7 @@ FitnessDungeon – tai ne tik sportavimo programėlė, bet ir žaismingas būdas
 - **Kasdienės misijos** (3 per dieną)
   - Pvz.: "Padaryk 30 atsispaudimų", "Nueik 10 000 žingsnių"
 - **Paprastos užduotys** 
-  - Pvz.: "Panašios į kasdienines, tačiau jas gali pasirinkti pats pagal tai, ką labiau nori treniruoti."
+  - Pvz.: "Panašios į kasdienines misijas, tačiau jas gali pasirinkti pats pagal tai, ką labiau nori treniruoti."
 
 ###  Ekonomikos Sistema
 - Už kiekvieną įvykdytą misiją gaunate **FitnessCoins (FC)**
@@ -130,7 +130,7 @@ FitnessDungeon – tai ne tik sportavimo programėlė, bet ir žaismingas būdas
 
 ##  Programos patobulinimai ateityje
 
-FitnessDungeon komanda nuolat tobulina programėlę, kad suteiktų dar daugiau motyvacijos ir funkcionalumo. Štai keletas planuojamų patobulinimų:
+FitnessDungeon komanda nuolat tobulina programėlę, kad suteiktų dar daugiau motyvacijos žaidėjams ir funkcionalumo. Štai keletas planuojamų patobulinimų:
 
 ###  Socialinės funkcijos
 - **Draugų sistema** – galimybė pridėti draugus ir matyti jų pasiekimus
@@ -138,7 +138,7 @@ FitnessDungeon komanda nuolat tobulina programėlę, kad suteiktų dar daugiau m
 - **Pasiekimų lentelės** – varžykitės su kitais naudotojais ir užimkite aukštas vietas reitinguose
 
 ###  Išplėstinės misijos
-- **Sezoniniai renginiai** – specialios misijos, skirtos tam tikriems metų laikams ar šventėms
+- **Sezoniniai renginiai** – specialios misijos, skirtos tam tikriems metų laikams ir šventėms
 - **Progresuojančios treniruotės** – misijos, kurios automatiškai tampa sudėtingesnės didėjant jūsų fiziniam pajėgumui
 - **Personalizuotos treniruočių programos** – algoritmai, pritaikantys misijas pagal jūsų tikslus ir galimybes
 
