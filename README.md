@@ -16,11 +16,11 @@
 
 **FitnessDungeon** – tai unikali programėlė, kuri sporto rutinos monotoniją paverčia įtraukiančiu nuotykiu. Sukurta pixel art stiliumi, ji sujungia fizinį aktyvumą su žaidimo elementais, suteikdama motyvaciją tiems, kuriems tradicinis sportavimas atrodo nuobodus.
 
-## 🏋️‍♂️ Apie programą
+##  Apie programą
 
 FitnessDungeon transformuoja kasdienį sportavimą į smagią veiklą, kurioje kiekvienas pratimas tampa žingsniu link jūsų asmeninio veikėjo tobulėjimo. Programos esmė – atlikdami fizinius pratimus uždirbate specialią valiutą, **FitnessCoins (FC)**, kurią galite investuoti į savo virtualaus veikėjo pagerinimus.
 
-## 🎮 Pagrindinės funkcijos
+##  Pagrindinės funkcijos
 
 Programėlę sudaro trys pagrindiniai komponentai:
 
@@ -39,14 +39,14 @@ Programėlę sudaro trys pagrindiniai komponentai:
 - Pasiekimai už įspūdingus rezultatus (pvz., 500 atsispaudimų)
 - Kiti unikalūs trofėjai, atspindintys jūsų sporto kelionę
 
-## 🌟 Motyvacijos sistema
+##  Motyvacijos sistema
 
 FitnessDungeon išsiskiria savo unikaliu požiūriu į motyvaciją:
 - **Vizualus progreso sekimas** per veikėjo išvaizdos kaitą
 - **Virtualūs augintiniai**, kurie rodomi šalia jūsų veikėjo ir gali būti įsigyjami už FC
 - **Unikalaus dizaino trofėjai**, kurie atspindi jūsų pasiekimus
 
-## 🎯 Kam skirta?
+##  Kam skirta?
 
 Programa puikiai tinka:
 - Sporto entuziastams, ieškantiems papildomos motyvacijos
