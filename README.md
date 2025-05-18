@@ -72,15 +72,8 @@
 
 *Nustatymų langas, leidžiantis pritaikyti programą pagal individualius poreikius.*
 
-# Testavimas
-Programa buvo testuojama šiais metodais:
-1. **Vienetų testavimas** - patikrinant atskirus programos komponentus
-2. **Integracinis testavimas** - tikrinant komponentų sąveiką
-3. **Vartotojo sąsajos testavimas** - užtikrinant patogumą ir funkcionalumą
-4. **Apkrovos testavimas** - tikrinant programos veikimą dideliais duomenų kiekiais
-> Testų rezultatai parodė, kad programa veikia stabiliai ir atitinka visus keliamus reikalavimus.
 
-## Testavimo lentelė
+
 ## Testavimo lentelė
 | Testo nr. |      Veiksmas     |  Hipotezė  | Rezultatas |
 |-----------|-------------------|------------|------------|
