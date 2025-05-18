@@ -31,7 +31,7 @@ Programėlę sudaro trys pagrindiniai komponentai:
 Šioje dalyje galite išleisti uždirbtas FC tam, kad:
 - Pagerintumėte savo veikėjo išvaizdą su nauja apranga
 - Įsigytumėte šalmus, papuošalus, kelnes ir kitus aksesuarus
-- Pritaikytumėte unikalų stilių savo žaidimo avatarui
+
 
 ### 3. Trofėjų urvas
 Ši erdvė skirta demonstruoti jūsų pasiekimus. Čia kaupiami visi jūsų uždirbti trofėjai:
@@ -57,7 +57,7 @@ FitnessDungeon – tai ne tik sportavimo programėlė, bet ir žaismingas būdas
 
 <div style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
   <h2> Kodėl Verta Naudotis?</h2>
-  <p>Nebekankink saves nuobodžiomis treniruotėmis - paverčk fizinį aktyvumą į žaidimą!</p>
+  <p>Nebekankink saves nuobodžiomis treniruotėmis - paversk fizinį aktyvumą į žaidimą!</p>
 </div>
 
 ---
