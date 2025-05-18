@@ -80,7 +80,7 @@ Programa buvo testuojama šiais metodais:
 4. **Apkrovos testavimas** - tikrinant programos veikimą dideliais duomenų kiekiais
 > Testų rezultatai parodė, kad programa veikia stabiliai ir atitinka visus keliamus reikalavimus.
 
-## Testavimo rezultatai
+## Testavimo lentelė
 
 | Testo nr. |      Veiksmas     |  Hipoteze  | Rezultatas |
 |-----------|-------------------|------------|------------|
@@ -94,9 +94,9 @@ Programa buvo testuojama šiais metodais:
 | 8         |                   |            |            |
 | 9         |                   |            |            |
 | 10        |                   |            |            |
-# User Guide
+# Naudojimo gidas vartotojui
 
-## Installation
+## Instaliavimas
 
 To install the application:
 1. Download the latest version from our releases page
