@@ -103,11 +103,11 @@ FitnessDungeon – tai ne tik sporto programėlė, bet ir žaismingas būdas pra
 
 # Programos nuotraukos
 
-![Pagrindinis langas](https://via.placeholder.com/600x400?text=Pagrindinis+langas)
+![Pagrindinis langas](FitnessDungeon1.png)
 
 *Pagrindinis programos langas, kuriame matomi pagrindiniai valdymo elementai ir duomenų atvaizdavimas.*
 
-![Nustatymų langas](https://via.placeholder.com/600x400?text=Nustatymų+langas)
+![Nustatymų langas](FitnessDungeon2.png)
 
 *Nustatymų langas, leidžiantis pritaikyti programą pagal individualius poreikius.*
 
